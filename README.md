@@ -81,7 +81,6 @@ Rode o notebook célula a célula, na ordem — as etapas de agregação (item 2
 
 ## ⚠️ Limitações conhecidas
 
-- **Lead time tratado como fixo** (7 dias hipotéticos) — na prática, é uma distribuição, muitas vezes assimétrica
 - **Histórico com ruptura subestima a demanda real** (demanda censurada — se faltou estoque, a venda registrada não reflete a demanda verdadeira)
 - **Sazonalidade pode reclassificar SKUs** ao longo do ano — recomenda-se revisão periódica (trimestral) das classes ABC-XYZ
 - **O modelo não substitui julgamento operacional** — é uma ferramenta de apoio à decisão, não um piloto automático
